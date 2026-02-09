@@ -1,11 +1,14 @@
 # 💫 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="280"/>
 
 Hey 👋 I’m **Nikhil**, a **backend-leaning full-stack developer** focused on building **scalable systems, clean APIs, and production-ready architectures**.
 
 I enjoy designing backend logic that *actually survives real users* — things like proper data modeling, role-based access, state consistency, and performance-aware APIs.  
 Frontend is how users see it; **backend is where I obsess**.
+
+
+<img  src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
+
 
 ---
 
