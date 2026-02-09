@@ -1,9 +1,7 @@
-# 💫 About Me
-
 
 Hey 👋 I’m **Nikhil**, a **backend-leaning full-stack developer** focused on building **scalable systems, clean APIs, and production-ready architectures**.
 
-I enjoy designing backend logic that *actually survives real users* — things like proper data modeling, role-based access, state consistency, and performance-aware APIs.  
+I am into designing backend logic that *actually survives real users* — things like proper data modeling, role-based access, state consistency, and performance-aware APIs.  
 Frontend is how users see it; **backend is where I obsess**.
 
 
@@ -22,15 +20,6 @@ Frontend is how users see it; **backend is where I obsess**.
 
 ---
 
-## 🧠 Looking for Help With
-
-- **Scalable backend architecture** (controllers, services, repositories)
-- Designing **clean, versioned REST APIs**
-- API performance tuning (pagination, indexing, caching strategies)
-- Managing **complex client/server state** with minimal bugs
-- Real-world patterns used in **production systems**
-
----
 
 ## 🌱 Currently Learning
 
@@ -38,27 +27,10 @@ Frontend is how users see it; **backend is where I obsess**.
   (service layers, error handling, validation, auth flows)
 - 🔄 **TanStack Query** for scalable server-state management
 - ⚛️ Advanced React patterns (memoization, render optimization)
-- 🎬 **Framer Motion** for subtle, intentional UI animations
 - 📐 Writing APIs that are easy to **extend, test, and debug**
 
 ---
 
-## 💬 Ask Me About
-
-- Backend development with **Node.js & Express**
-- API design & request/response structuring
-- Authentication & authorization flows
-- MERN stack architecture
-- React + Tailwind CSS integration
-- Building **production-ready full-stack applications**
-
----
-
-## ⚡ Fun Fact
-
-I often build **entire applications just to perfect one backend flow** —  
-auth logic, permissions, data consistency, or a single API design.  
-If the backend isn’t clean, I’m not satisfied.
 
 ---
 
