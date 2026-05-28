@@ -28,9 +28,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=n1khil-choudhary&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1khil-choudhary&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9" />
 
 </div>
 
