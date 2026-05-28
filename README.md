@@ -4,7 +4,6 @@
 
 ### Full Stack Developer | Chennai, India
 
-A passionate developer.
 
 </div>
 
