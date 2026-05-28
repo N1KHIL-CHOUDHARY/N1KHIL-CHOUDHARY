@@ -1,67 +1,59 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Nikhil%20H&fontSize=50&fontColor=fff&animation=fadeIn)
 
-Hey 👋 I’m **Nikhil**, a **backend-leaning full-stack developer** focused on building **scalable systems, clean APIs, and production-ready architectures**.
+<div align="center">
 
-I am into designing backend logic that *actually survives real users* — things like proper data modeling, role-based access, state consistency, and performance-aware APIs.  
-Frontend is how users see it; **backend is where I obsess**.
+### Full Stack Developer | Chennai, India
 
+A passionate developer.
 
-<img  src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
-
-
-----
-
-## 🤝 Open to Collaborate On
-
-- **Backend-heavy MERN / Node.js projects**
-- REST API–driven systems with clean architecture
-- **Dashboards, admin panels, and internal tools**
-- **Scheduling systems, workflow automation, and data-driven apps**
-- Projects that value **structure, maintainability, and scale**
+</div>
 
 ---
 
+### 💻 Tech Stack
 
-## 🌱 Currently Learning
-
-- 🧱 **Backend structuring** in Node.js + Express  
-  (service layers, error handling, validation, auth flows)
-- 🔄 **TanStack Query** for scalable server-state management
-- ⚛️ Advanced React patterns (memoization, render optimization)
-- 📐 Writing APIs that are easy to **extend, test, and debug**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-333?style=for-the-badge&logo=tailwindcss&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-333?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
+### 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=n1khil-choudhary&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n1khil-choudhary&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+</div>
 
 ---
 
-## 🌐 Socials
+### 🌱 Currently
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-h-184560338/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhil2k7h@gmail.com)
-
----
-
-## 💻 Tech Stack
-
-### Backend & Core
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frontend (for system delivery)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tooling & Deployment
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+- 📚 Learning: **System Design**
+- 🤝 Open to collaborate on: **Full-stack application development, API design, and open-source projects**
+- 💬 Ask me about: **Backend development **
 
 ---
 
-<img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="100%"/>
+### 📫 Let's Connect
 
-> **Backend first. Frontend second.  
-> Clean APIs always.**
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](nikhil-dev.in) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhil2k7h@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/nikhil-h-184560338) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/n1khil-choudhary)
+
+</div>
+
+---
+
+---
+
+---
+
+<div align="center">
+
+⚡ Actively contributes to open-source projects and enjoys solving practical engineering problems.
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
