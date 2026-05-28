@@ -1,5 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Nikhil%20H&fontSize=50&fontColor=fff&animation=fadeIn)
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=220&section=header&text=Nikhil%20H&desc=Full%20Stack%20Developer&descSize=22&descAlignY=62&fontSize=50&fontColor=fff&animation=fadeIn)
 <div align="center">
 
 ### Full Stack Developer | Chennai, India
@@ -13,6 +12,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
   <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
   <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
@@ -23,13 +24,19 @@
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=n1khil-choudhary&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=n1khil-choudhary&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n1khil-choudhary&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1khil-choudhary&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9" />
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=n1khil-choudhary&theme=github-dark-blue&hide_border=true&background=0D1117" />
 
 </div>
 
